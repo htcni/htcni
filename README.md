@@ -2,7 +2,7 @@
 
 I’m a self-taught mobile app developer with a passion for building elegant and functional cross-platform apps using **Flutter**, **React Native**, **Supabase** and **Firebase**.
 
-Since 2020, I’ve independently designed, built, and launched 4+ Android apps on the Play Store — handling everything from UI/UX and animations to backend integration and publishing.
+Since 2020, I’ve independently designed, built, and launched Android apps on the Play Store — handling everything from UI/UX and animations to backend integration and publishing.
 
 ---
 
