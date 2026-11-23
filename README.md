@@ -14,10 +14,7 @@
 
 | App | Tech | Link |
 |-----|------|------|
-| 📝 Text Widget Pro | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.bigfrogstudios.textwidgetpro.textwidgetpro) |
-| 🧘 Zen Task | React Native + Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.mazzestudios.zen_task) |
-| 🔐 KeyNest | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.mazzestudios.keynest) |
-| 📜 Chanakya Niti | React Native + Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.mazzestudios.chankyaniti) |
+| 📝 Text Widget Pro | [Play Store](https://play.google.com/store/apps/details?id=com.bigfrogstudios.textwidgetpro.textwidgetpro) 
 
 
 ---
