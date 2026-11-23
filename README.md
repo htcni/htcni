@@ -4,7 +4,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages**: TypeScript, Dart, JavaScript, Python
-- **Mobile**: Flutter, React Native (Expo & CLI)
+- **Mobile**: Flutter, React Native (Expo & CLI), Android
 - **Backend**: Supabase, Nodejs, Python, Firebase (Auth, Firestore, FCM), REST APIs
 - **Tools**: Git, GitHub, Android Studio, VS Code, Figma
 
@@ -12,8 +12,8 @@
 
 ### 📱 Live Projects
 
-| App | Tech | Link |
-|-----|------|------|
+| App | Link |
+|-----|------|
 | 📝 Text Widget Pro | [Play Store](https://play.google.com/store/apps/details?id=com.bigfrogstudios.textwidgetpro.textwidgetpro) 
 
 
