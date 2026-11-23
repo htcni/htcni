@@ -22,10 +22,8 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://htcni.carrd.co/)
 - 🌐 [Portfolio](https://mazzestudios.netlify.app)
 - 📬 [Email](mailto:nitinbartwal6@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/nitinbartwal)
 
 ---
 
